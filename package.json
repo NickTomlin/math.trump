@@ -1,0 +1,18 @@
+{
+  "name": "math.trump",
+  "version": "0.1.0",
+  "description": "Find out the _real_ number; not the one the crooked journalists want you to believe",
+  "main": "index.js",
+  "scripts": {
+    "test": "ava test.js",
+    "build": "browserify index.js > built.js"
+  },
+  "bin": "bin/trumpmath",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "ava": "^0.17.0",
+    "browserify": "^13.3.0"
+  }
+}

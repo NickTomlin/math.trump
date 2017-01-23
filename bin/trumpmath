@@ -1,0 +1,8 @@
+#!/usr/bin/env node
+
+require('../index')
+
+let number = parseInt(process.argv[2], 10)
+let a = '🇺🇸'
+
+console.log(a, '', Math.trump(number), a)
