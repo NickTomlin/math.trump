@@ -1,6 +1,6 @@
 {
   "name": "math.trump",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Find out the _real_ number; not the one the crooked journalists want you to believe",
   "main": "index.js",
   "scripts": {
