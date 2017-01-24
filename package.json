@@ -7,7 +7,9 @@
     "test": "ava test.js",
     "build": "browserify index.js > built.js"
   },
-  "bin": "bin/trumpmath",
+  "bin": {
+    "trumpmath": "bin/trumpmath"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
