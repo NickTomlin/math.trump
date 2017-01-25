@@ -1,4 +1,4 @@
-Math.trump
+Math.trump [![npm version](https://badge.fury.io/js/math.trump.svg)](https://badge.fury.io/js/math.trump)
 ===
 
 Make math great again: The current U.S. Administration has taught us that facts (or "truth") can have alternatives. This module aims to make it as easy as possible to generate and proliferate these non-deterministic alternative interpretations of reality on the server and the client.
