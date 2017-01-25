@@ -1,7 +1,7 @@
 Math.trump
 ===
 
-Make math great again: unlock the _real_ number behind the number that the crooked media wants you to believe.
+Make math great again: The current U.S. Administration has taught us that facts (or "truth") can have alternatives. This module aims to make it as easy as possible to generate and proliferate these non-deterministic alternative interpretations of reality on the server and the client.
 
 Usage
 ---
@@ -27,8 +27,3 @@ $ npm i -g math.trump
 $ trumpmath 25000
 🇺🇸  753720 🇺🇸
 ```
-
-Why????
----
-
-The current U.S. Administration has taught us that facts (or "truth") can have [alternatives](http://www.cnn.com/2017/01/22/politics/kellyanne-conway-alternative-facts/). This module aims to make it as easy as possible to generate and proliferate these non-deterministic alternative interpretations of reality on both the server and the client.
